@@ -1,0 +1,12 @@
+income,60000.0,salary
+expense,3000.0,cloths
+expense,5000.0,room rent
+expense,7000.0,food
+expense,750.0,watch
+expense,5500.0,hotel food
+10000,500.0,python -u "c:\Users\rushi\OneDrive\Documents\Desktop\budget\index.py"
+income,50000.0,salary
+expense,10000.0,room rent
+expense,5000.0,cloth
+expense,2000.0,food
+expense,2000.0,bus travels
